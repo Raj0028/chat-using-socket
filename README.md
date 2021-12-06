@@ -1,2 +1,2 @@
 # chat-using-socket
-Chat between client and server using Socket 
+Chat between client and server using Python 
